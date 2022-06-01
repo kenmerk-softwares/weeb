@@ -947,8 +947,9 @@ footer {
   color:yellow;
 }
 .gh{
-  align-items: center;
-  display: inline;
+  display: flex;
+    justify-content: center;
+    align-items: center;
   width: 400px;
   height: 370px;
 }
@@ -1079,14 +1080,14 @@ font-family: 'Kanit', sans-serif;
 }
 @media screen and (max-width:567px){
     .main-timeline .title{ font-size: 18px; }
-}
+} */
 .TY{
   color: black;
 }
 .ghh{
   font-size: 1.9rem;
   text-align: center;
-} */
+}
 
 /* hh */
 
